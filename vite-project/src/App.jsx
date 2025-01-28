@@ -30,6 +30,9 @@ function App() {
       </p>
       <div className="footer">
         <p>�� 2022 MyApp</p>
+        <a href="https://github.com/vitejs/vite" target="_blank">
+          Vite
+        </a>
       </div>
     </>
   )
